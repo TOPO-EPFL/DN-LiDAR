@@ -60,5 +60,7 @@ A matlab script is provided to compare the estimated trajectory, **T.2 DNC** and
 
 Running the script `tools/trajectory_comparison/runTrajectoryComparison.m` will produce, among the others, the following two plots depicting the orientation error with respect to the ground truth.
 
-[](figures/rpy_comp.png)
+![](figures/rpy_time.png)
+
+![](figures/rpy_hist.png)
 
