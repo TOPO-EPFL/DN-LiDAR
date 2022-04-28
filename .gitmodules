@@ -1,0 +1,3 @@
+[submodule "submodules/roamfree"]
+	path = submodules/roamfree
+	url = https://github.com/AIRLab-POLIMI/ROAMFREE.git

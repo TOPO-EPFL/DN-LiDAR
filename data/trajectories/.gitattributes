@@ -1,0 +1,2 @@
+T0-R.out filter=lfs diff=lfs merge=lfs -text
+T1-KS.out filter=lfs diff=lfs merge=lfs -text
