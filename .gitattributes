@@ -1,5 +1,5 @@
 *.out filter=lfs diff=lfs merge=lfs -text
 
-tools/* linguist-documentation
+tools/trajectory_comparison/* linguist-documentation
+tools/trajectory_comparison/functions/* linguist-documentation
 data/* linguist-documentation
-tools/* linguist-documentation
