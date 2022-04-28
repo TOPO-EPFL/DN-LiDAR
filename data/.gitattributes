@@ -1,0 +1,4 @@
+GNSS_lat0=46.566641300900_lon0=6.512265144377_short.txt filter=lfs diff=lfs merge=lfs -text
+gyroscope_short.txt filter=lfs diff=lfs merge=lfs -text
+accelerometer_short.txt filter=lfs diff=lfs merge=lfs -text
+correspondences.txt filter=lfs diff=lfs merge=lfs -text
