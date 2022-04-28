@@ -1,6 +1,6 @@
 # Lidar Point–to–point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks
 
-This repository contain a software that integrate point-to-point correspondences between LiDAR point clouds with raw inertial and GNSS measurements using Dynamic Networks. The provided code is based on the [ROAMFREE](https://github.com/AIRLab-POLIMI/ROAMFREE) sensor fusion library, which contains the actual solver for Dynamic Network adjustment problems.
+This repository contain an application written in C++ that integrates point-to-point correspondences between LiDAR point clouds with raw inertial and GNSS measurements using Dynamic Networks. The provided code is based on the [ROAMFREE](https://github.com/AIRLab-POLIMI/ROAMFREE) sensor fusion library, which contains the actual solver for Dynamic Network adjustment problems.
 
 The algorithms and methods are presented in detail in the following article:
 
